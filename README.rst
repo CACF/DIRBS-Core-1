@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FCACF%2FDIRBS-Core-1.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FCACF%2FDIRBS-Core-1?ref=badge_shield)
+
 DIRBS
 ====================
 The Device Identification, Registration, Blocking, System (DIRBS) consists of a Core component, classification engine,
@@ -350,3 +352,7 @@ To create the distribution (wheel, assets) for a release:
     make dist
 
 All assets to be shipped will be output to the ``dist`` directory.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FCACF%2FDIRBS-Core-1.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FCACF%2FDIRBS-Core-1?ref=badge_large)
